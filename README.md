@@ -41,4 +41,12 @@ Building web projects, with front-end as my main focus. Also learning Big Data A
 - **HealthyBuddy**: web-based health monitoring system that tracks BMI, blood pressure, and blood sugar, and gives personalized health suggestions | *HTML, CSS, JavaScript, Java, Spring Boot, MySQL* | [repo](https://github.com/Jasmine-Apsari/HealthyBuddy)
 - **Hotel Management**: hotel management system | [repo](https://github.com/Jasmine-Apsari/Management_Hotel)
 
+## GitHub Contributions
+
+<div align="center">
+
+![My GitHub Game](game.gif)
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F13E93,100:0D0D0D&height=100&section=footer" width="100%" />
